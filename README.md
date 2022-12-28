@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Deemaaalosaimi
 - I’m interested in codes in general
-- I’m currently learning java!!
+- I’m currently learning C!!
 
 <!---
 Deemaaalosaimi/Deemaaalosaimi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
