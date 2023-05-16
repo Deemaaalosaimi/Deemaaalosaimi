@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @Deemaaalosaimi
-- I’m interested in codes in general
+# Hello, This is Deema!
+- I’m interested in Applications development
+<br/>
+
 - I’m currently learning Swift!!
+<br/>
 
 <!---
 Deemaaalosaimi/Deemaaalosaimi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
