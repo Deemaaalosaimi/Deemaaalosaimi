@@ -17,4 +17,6 @@
 
 <h1 align="center">My status</h1>
 
+<p align="center">
 <p>&nbsp;<img align="center"src="https://github-readme-stats.vercel.app/api?username=deemaaalosaimi&show_icons=true&locale=en" alt="deemaaalosaimi" /></p>
+</p>
