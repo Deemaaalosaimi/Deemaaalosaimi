@@ -1,24 +1,18 @@
-# Hello, This is Deema!
+<h1 align="center">Hi 👋, I'm Deema Alosaimi</h1>
+<h3 align="center">A passionate Application developer</h3>
 
-- I’m interested in Applications development
-- I’m currently learning Swift!!
-<br/>
 
- # Contact me
- 
- [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Deema_os)
- [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deema-alosaimi-234dee)
- 
- # My Skills
- ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
- ![image](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
- 
- # My Status
- 
- ![image](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Deemaaalosaimi)
- 
- 
-<!---
-Deemaaalosaimi/Deemaaalosaimi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="center">🔭 I’m currently learning **SwiftUI**</h3>
+
+<h3 align="center">📫 How to reach me **Deemaosaimi@outlook.sa**</h3>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/deema_os" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deema_os" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/deema-alosaimi-234dee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deema-alosaimi-234dee" height="30" width="40" /></a>
+</p>
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center"src="https://github-readme-stats.vercel.app/api?username=deemaaalosaimi&show_icons=true&locale=en" alt="deemaaalosaimi" /></p>
