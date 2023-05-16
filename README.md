@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Application developer</h3>
 
 
-<h3 align="center">🔭 I’m currently learning **SwiftUI**</h3>
+<h3 align="center">🔭 I’m currently learning SwiftUI</h3>
 
-<h3 align="center">📫 How to reach me **Deemaosaimi@outlook.sa**</h3>
+<h3 align="center">📫 How to reach me @Deemaosaimi@outlook.sa</h3>
 
 <h1 align="center">Connect with me:</h1>
 <p align="center">
