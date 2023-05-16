@@ -1,7 +1,6 @@
 # Hello, This is Deema!
-- I’m interested in Applications development
-<br/>
 
+- I’m interested in Applications development
 - I’m currently learning Swift!!
 <br/>
 
